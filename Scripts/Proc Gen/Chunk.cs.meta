@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e99af8c45d22cc4590dbd3e88a9b0ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fencePrefab: {instanceID: 0}
+  - applePrefab: {instanceID: 0}
+  - coinPrefab: {instanceID: 0}
+  - bottlePrefab: {fileID: 4608637207170859005, guid: 584e4cb30788c446099e8cc58e99cd9f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

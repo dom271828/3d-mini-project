@@ -1,2 +1,3 @@
-# 3d-mini-project
-Mini Project 3 - Contains assets and design doc, play link in doc
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/8lpHuXgO)
+# Homework 9
+This homework focuses on using regular expression to split or extract information from text, as well as using Postgres' full text search features. You'll initially be using `fables.txt` and cleaning and parsing the data into a nicer tabular form, before doing some analysis. You won't need `make_animals.sql` until the analysis. Don't forget to upload CSV files of any tables you were asked to create if you haven't copied them into your solutions elsewhere.
